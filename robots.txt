@@ -1,0 +1,6 @@
+User-agent: *
+
+Allow: sitemap.xml
+Allow: sitemap.html
+
+Sitemap: https://passivemoneyincome.github.io/sitemap.xml
